@@ -1,2 +1,3 @@
 # fcc-whoami-api
-Request header parser api for freeCodeCamp
+
+Created as part of the [freeCodeCamp](https://freecodecamp.com/) curriculum
